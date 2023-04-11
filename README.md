@@ -4,7 +4,7 @@ In this project, we will be training a CNN using transfer learning to create an 
 
 ### Download Data
 
-Using [this](https://www.kaggle.com/datasets/vuppalaadithyasairam/ultrasound-breast-images-for-breast-cancer) link, download the train and valid folders and place them in the root directory of your .ipynb file. 
+Using [this](https://www.kaggle.com/datasets/vuppalaadithyasairam/ultrasound-breast-images-for-breast-cancer) link, download the train and val folders and place them in the root directory of your .ipynb file. 
 
 ### Source Code 
 
